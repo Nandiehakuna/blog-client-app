@@ -1,8 +1,9 @@
 import React from "react"
+import StreamIcon from '@mui/icons-material/Stream';
 
 
 const LogoImage=()=>{
-    <img src="" alt="" />
+    <StreamIcon className="logo-icon"/>
 
 }
 export default LogoImage;

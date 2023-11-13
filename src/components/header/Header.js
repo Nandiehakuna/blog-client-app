@@ -7,7 +7,7 @@ const Header =()=>{
         <header className="header">
             <nav className="header-nav">
                 <Logo/>
-                Header
+                
             </nav>
 
             
