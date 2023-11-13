@@ -1,9 +1,9 @@
 :root{
-  --purple50: #EDE7F6;
-  --purple100: #D1C4E9;
-  --purple200: #B39DDB;
-  --purple400: #7E57C2;
-  --purple800: #4527A0;
+  --purple50: hsl(264deg 45.45% 93.53%);
+  --purple100: hsl(261.08deg 45.68% 84.12%);
+  --purple200: hsl(261.29deg 46.27% 73.73%);
+  --purple400: hsl(261.87deg 46.72% 55.1%);
+  --purple800: hsl(261.87deg 46.72% 55.1%);
   --white-color: hsl(0deg 0% 100%);
   --Black30: hsl(0deg 0% 18.82%);
   --Black2B: hsl(0deg 0% 16.86%);
