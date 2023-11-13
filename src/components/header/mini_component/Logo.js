@@ -6,10 +6,8 @@ import LogoImage from "./LogoImage"
 const Logo =()=>{
     return(
        <Link>
-       <LogoImage />
-       bloggify
-
-
+       <LogoImage/>
+       Bloggify
        </Link>
 
     )

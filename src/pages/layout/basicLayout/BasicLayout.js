@@ -5,8 +5,9 @@ import Header from "../../../components/header/Header";
 const BasicLayout =()=>{
 
 return(
-    <section>
+    <section className="basic-layout-section">
         <Header/>
+        <Outlet/>
 
 
         
