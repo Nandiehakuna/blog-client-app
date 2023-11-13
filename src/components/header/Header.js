@@ -1,12 +1,13 @@
 import React from "react";
+import Logo from "./mini_component/Logo";
 
 
 const Header =()=>{
     return(
-        <section>
-
+        <header>
+            <Logo />
             
-        </section>
+        </header>
 
     )
 }
