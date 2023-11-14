@@ -1,10 +1,11 @@
 import React from "react"
 
-import RocketIcon from '@mui/icons-material/Rocket';
-
-
 const LogoImage=()=>{
-    <RocketIcon className="logo-icon"/>
+  return(
+    </>
+
+  )
+  
   }
 
 export default LogoImage;

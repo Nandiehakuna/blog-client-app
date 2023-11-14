@@ -30,3 +30,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 /* modules styles */
+.header{
+  position: fixed;
+  background-color: var();
+  
+
+}
+.header-nav{
+  padding: 05em 1em;
+}
