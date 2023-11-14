@@ -98,6 +98,16 @@ svg.logo-icon{
 
 }
 
+.menu-dropdown{
+  position: absolute;
+  right: -1em;
+  top: 3em;
+  background-color: var(--purple50);
+  padding: 1em 0.5em;
+  width: 50vw;
+  
+}
+
 
 
 
