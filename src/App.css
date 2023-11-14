@@ -37,5 +37,22 @@ body{
 
 }
 .header-nav{
-  padding: 05em 1em;
+  padding: 0.5em 1em;
+}
+
+/* logo module */
+.logo{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1.4em;
+  gap: o.2em;
+  font-weight: 500;
+  color: var(--Black2B);
+  
+}
+
+.logo-icon{
+  font-size: 2em;
+  color: var(--purple800);
 }
