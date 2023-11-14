@@ -1,11 +1,11 @@
-
-
-import React from "react";
+import React,{useState} from "react";
 import ToggleButton from "../ToggleButton";
 import Dropdown from "../Dropdown";
-<ToggleButton></ToggleButton>
+
 const Menu =()=>{
-    return(
+
+  const {show,setShow}= useState(false) 
+  return(
     
     <nav className="menu">
          <ToggleButton/>
