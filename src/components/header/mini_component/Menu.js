@@ -6,7 +6,7 @@ import ToggleButton from "../ToggleButton";
 const Menu =()=>{
     return(
     
-    <nav>
+    <nav className="menu">
          <ToggleButton/>
     </nav>
     
