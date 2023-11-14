@@ -1,9 +1,17 @@
 import React from "react"
-import StreamIcon from '@mui/icons-material/Stream';
+
+import RocketIcon from '@mui/icons-material/Rocket';
 
 
 const LogoImage=()=>{
-    <StreamIcon className="logo-icon"/>
+    <RocketIcon className="logo-icon"/>
+  }
 
-}
 export default LogoImage;
+
+
+
+
+
+
+
