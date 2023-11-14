@@ -98,6 +98,11 @@ svg.logo-icon{
 
 }
 
+.menu.is-open .menu-toggle::after{
+  content: "\00D7";
+
+}
+
 .menu-dropdown{
   position: absolute;
   right: -1em;
@@ -105,8 +110,11 @@ svg.logo-icon{
   background-color: var(--purple50);
   padding: 1em 0.5em;
   width: 50vw;
-  
+
 }
+
+
+
 
 
 

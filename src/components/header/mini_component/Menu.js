@@ -8,14 +8,14 @@ const Menu =()=>{
 
   const handleShow=()=>{
     setShow(!show)
-    alert("it is working !")
+    
   }
 
   return(
     
-    <nav className="menu">
+    <nav className={show?'menu is-open':'menu'}>
 
-         <ToggleButton handleShow={handleShow}/>
+         <ToggleButton  handleShow={handleShow}/>
          <Dropdown/>
     </nav>
     
