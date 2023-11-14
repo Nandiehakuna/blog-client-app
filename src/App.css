@@ -36,15 +36,12 @@ body{
   top: 0;
   left: 0;
   right: 0;
-  
-
 }
+
 .header-nav{
   padding: 0.5em 1em;
   display: flex;
   justify-content: space-between;
-
-
 }
 
 /* logo module */
@@ -65,7 +62,7 @@ svg.logo-icon{
 }
 .bee{
   color: var(--purple800);
-  font-size: 1.4em;
+  font-size: 1.3em;
 
 }
 
