@@ -33,11 +33,18 @@ body{
 .header{
   position: fixed;
   background-color: var();
+  top: 0;
+  left: 0;
+  right: 0;
   
 
 }
 .header-nav{
   padding: 0.5em 1em;
+  display: flex;
+  justify-content: space-between;
+
+
 }
 
 /* logo module */
@@ -56,5 +63,11 @@ svg.logo-icon{
   font-size: 2em;
   color: var(--purple800);
 }
+.bee{
+  color: var(--purple800);
+  font-size: 1.4em;
+
+}
+
 
 

@@ -7,7 +7,7 @@ const Logo =()=>{
     return(
        <Link className="logo">
        <LogoImage className="logo-icon"/>
-       Bloggify
+       <span className="bee">B</span>loggify
        </Link>
 
     )
