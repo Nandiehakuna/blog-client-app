@@ -2,9 +2,10 @@ import Nav from "./Nav";
 import React from "react"
 const Dropdown=()=>{
     return(
-        <div>
-            <Nav/>
-        </div>
+        <nav className="menu-dropdown">
+            Dropdown
+            
+        </nav>
 
     )
 
